@@ -54,10 +54,6 @@ a {
     font-weight: 700;
 }
 
-.section {
-    height: 100vh;
-}
-
 .main {
     height: 100vh;
     display: flex;
